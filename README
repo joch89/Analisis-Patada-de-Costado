@@ -1,0 +1,4 @@
+Analisis de Patada de Costado
+
+Se obtiene un video.mp4 con los landmarks siguiendo el movimiento.
+Ademas el codigo permite generar un df que contiene los puntos por cada dataframe, pundiendo elegir cuales analizar, dejando varias posibilidades de análisis.
